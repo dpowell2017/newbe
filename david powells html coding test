@@ -1,0 +1,7 @@
+// hello I am attempting to learn HTML and javascript. this document is for me to test me working on HTML
+<html>
+<head1>
+hello this is a header intorducing the "<head>" and "</head>" which can show you text in a header (bold)
+</head1>
+<body1>                                                                                                        //# replace with body number also remove all ""\\//use bodys number that you choose at the begining of the body
+hello the body contains text that is smaller than the header I can use this to show a list in small text the code for the body is "<body#>" and endi it with "</body^>"
