@@ -1,0 +1,9 @@
+<!-- insert just before the closing body tag </body> -->
+<script src='/path-to-your-javascript-file/pdfobject.js'></script>
+<script>
+var options = {
+   pdfOpenParams: { scrollbar: '1', toolbar: '1', statusbar: '0', messages: '1', navpanes: '1' }
+};
+
+PDFObject.embed("https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf", false, options);
+</script>
